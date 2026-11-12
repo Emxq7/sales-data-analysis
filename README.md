@@ -39,6 +39,3 @@ The `output/` directory contains summary CSV files and a revenue chart.
 
 ## Data note
 `data/sales.csv` is synthetic sample data created for this educational project. It does not represent a real company or customer dataset.
-
-## Learning outcomes
-Data cleaning, pandas, grouping and aggregation, date handling, descriptive statistics, charting, and communicating findings.
